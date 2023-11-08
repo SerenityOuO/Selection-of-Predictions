@@ -14,12 +14,12 @@ This study delves into the optimal combination of these models, focusing on thei
 ## Model architecture
 
 - ** SoP :**
-<img src="img/Our method inference stage 1.pdf" alt="drawing" width="900"/>
+<img src="img/SoP.png" alt="drawing" width="900"/>
 
 - ** ERV-SoP :**
-<img src="img/ERV-SoP.pdf" alt="drawing" width="900"/>
+<img src="img/ERV-SoP.png" alt="drawing" width="900"/>
 
 - ** Mix SoP :**
-<img src="img/Mix SoP.pdf" alt="drawing" width="900"/>
+<img src="img/Mix SoP.png" alt="drawing" width="900"/>
 
 
