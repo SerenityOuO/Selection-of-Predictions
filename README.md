@@ -4,7 +4,7 @@ We present our code on CZSL Dataset and Ensemble Learning Dataset in two folder.
 
 ## Dataset
 
-[**CZSL Dataset**](https://github.com/machingwen/a3ilab/tree/main/Projects/Guided%20Anomaly%20detection/PCB_dataset) |  [**Ensemble Learning Dataset**](https://github.com/machingwen/a3ilab/tree/main/Projects/Guided%20Anomaly%20detection/Fruit_dataset)
+[**CZSL Dataset**](https://github.com/SerenityOuO/DFSP_project) |  [**Ensemble Learning Dataset**](https://github.com/SerenityOuO/test-ensemble-learning)
 :-------------------------:|:-------------------------:
 <img src="img/CZSL.jpg" alt="drawing" width="400"/> |  <img src="img/Ensemble Learning.jpg" alt="drawing" width="400"/>
 
